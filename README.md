@@ -19,3 +19,4 @@ The charts (one chart per country) are the same charts that are generated daily 
 
 The app assumes the charts are available from https://hdahle.github.io/telegrambot/img
 
+![plot](./docs/phones.jpg)
