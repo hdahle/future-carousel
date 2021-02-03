@@ -1,6 +1,8 @@
 # future-carousel
 Learning about React Native, Expo, and a Carousel UI
 
+The Futureplanet covid-charts are displayed in an Android/iOS app.
+
 ## What
 
 The UI is based on Carousel and FlatList:
